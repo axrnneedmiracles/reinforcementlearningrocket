@@ -1,0 +1,143 @@
+{
+  "status": "COMPLETED",
+  "episode": 3000,
+  "timesteps": 1350000,
+  "max_timesteps": 1350000,
+  "progress_pct": 100.0,
+  "rolling_success_pct": 100.0,
+  "last_outcome": "Training Complete",
+  "curriculum_level": 1.0,
+  "elapsed_sec": 1733.7,
+  "eta_sec": 0.0,
+  "fps": 2.0,
+  "saved_milestones": [
+    1,
+    20,
+    100,
+    500,
+    2000,
+    10000
+  ],
+  "recent_outcomes": [
+    {
+      "ep": 2981,
+      "outcome": "Soft landing",
+      "ret": 135.0,
+      "vy": -1.53
+    },
+    {
+      "ep": 2982,
+      "outcome": "Soft landing",
+      "ret": 130.0,
+      "vy": -1.55
+    },
+    {
+      "ep": 2983,
+      "outcome": "Soft landing",
+      "ret": 127.2,
+      "vy": -1.55
+    },
+    {
+      "ep": 2984,
+      "outcome": "Soft landing",
+      "ret": 134.0,
+      "vy": -1.54
+    },
+    {
+      "ep": 2985,
+      "outcome": "Soft landing",
+      "ret": 120.9,
+      "vy": -1.57
+    },
+    {
+      "ep": 2986,
+      "outcome": "Soft landing",
+      "ret": 128.9,
+      "vy": -1.55
+    },
+    {
+      "ep": 2987,
+      "outcome": "Soft landing",
+      "ret": 121.3,
+      "vy": -1.58
+    },
+    {
+      "ep": 2988,
+      "outcome": "Soft landing",
+      "ret": 134.4,
+      "vy": -1.53
+    },
+    {
+      "ep": 2989,
+      "outcome": "Soft landing",
+      "ret": 127.7,
+      "vy": -1.55
+    },
+    {
+      "ep": 2990,
+      "outcome": "Soft landing",
+      "ret": 131.4,
+      "vy": -1.54
+    },
+    {
+      "ep": 2991,
+      "outcome": "Soft landing",
+      "ret": 124.8,
+      "vy": -1.56
+    },
+    {
+      "ep": 2992,
+      "outcome": "Soft landing",
+      "ret": 131.0,
+      "vy": -1.54
+    },
+    {
+      "ep": 2993,
+      "outcome": "Soft landing",
+      "ret": 120.9,
+      "vy": -1.57
+    },
+    {
+      "ep": 2994,
+      "outcome": "Soft landing",
+      "ret": 130.3,
+      "vy": -1.54
+    },
+    {
+      "ep": 2995,
+      "outcome": "Soft landing",
+      "ret": 133.7,
+      "vy": -1.53
+    },
+    {
+      "ep": 2996,
+      "outcome": "Soft landing",
+      "ret": 132.4,
+      "vy": -1.54
+    },
+    {
+      "ep": 2997,
+      "outcome": "Soft landing",
+      "ret": 124.1,
+      "vy": -1.57
+    },
+    {
+      "ep": 2998,
+      "outcome": "Soft landing",
+      "ret": 128.9,
+      "vy": -1.55
+    },
+    {
+      "ep": 2999,
+      "outcome": "Soft landing",
+      "ret": 135.7,
+      "vy": -1.53
+    },
+    {
+      "ep": 3000,
+      "outcome": "Soft landing",
+      "ret": 134.0,
+      "vy": -1.53
+    }
+  ]
+}
